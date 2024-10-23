@@ -626,7 +626,7 @@ function PlasmicPatientForm__RenderFunc(props: {
                                     })()}
                                   </React.Fragment>
                                 }
-                                name={`Q${currentItem.id}`}
+                                name={`${currentItem.id}.${currentItem.question_text}`}
                               >
                                 {(() => {
                                   const child$Props = {
@@ -756,7 +756,7 @@ function PlasmicPatientForm__RenderFunc(props: {
                                     })()}
                                   </React.Fragment>
                                 }
-                                name={`Q${currentItem.id}`}
+                                name={`${currentItem.id}.${currentItem.question_text}`}
                               >
                                 {(() => {
                                   const child$Props = {
@@ -887,7 +887,7 @@ function PlasmicPatientForm__RenderFunc(props: {
                                     })()}
                                   </React.Fragment>
                                 }
-                                name={`Q${currentItem.id}`}
+                                name={`${currentItem.id}.${currentItem.question_text}`}
                               >
                                 {(() => {
                                   const child$Props = {
@@ -1184,7 +1184,7 @@ function PlasmicPatientForm__RenderFunc(props: {
                                     })()}
                                   </React.Fragment>
                                 }
-                                name={`Q${currentItem.id}`}
+                                name={`${currentItem.id}.${currentItem.question_text}`}
                               >
                                 {(() => {
                                   const child$Props = {
@@ -1314,7 +1314,7 @@ function PlasmicPatientForm__RenderFunc(props: {
                                     })()}
                                   </React.Fragment>
                                 }
-                                name={`Q${currentItem.id}`}
+                                name={`${currentItem.id}.${currentItem.question_text}`}
                               >
                                 {(() => {
                                   const child$Props = {
@@ -1610,7 +1610,7 @@ function PlasmicPatientForm__RenderFunc(props: {
                                     })()}
                                   </React.Fragment>
                                 }
-                                name={`Q${currentItem.id}`}
+                                name={`${currentItem.id}.${currentItem.question_text}`}
                               >
                                 {(() => {
                                   const child$Props = {
@@ -1731,7 +1731,7 @@ function PlasmicPatientForm__RenderFunc(props: {
                                     })()}
                                   </React.Fragment>
                                 }
-                                name={`Q${currentItem.id}`}
+                                name={`${currentItem.id}.${currentItem.question_text}`}
                               >
                                 {(() => {
                                   const child$Props = {
@@ -2036,7 +2036,7 @@ function PlasmicPatientForm__RenderFunc(props: {
                                     })()}
                                   </React.Fragment>
                                 }
-                                name={`Q${currentItem.id}`}
+                                name={`${currentItem.id}.${currentItem.question_text}`}
                               >
                                 {(() => {
                                   const child$Props = {
@@ -2157,7 +2157,7 @@ function PlasmicPatientForm__RenderFunc(props: {
                                     })()}
                                   </React.Fragment>
                                 }
-                                name={`Q${currentItem.id}`}
+                                name={`${currentItem.id}.${currentItem.question_text}`}
                               >
                                 {(() => {
                                   const child$Props = {
@@ -2462,7 +2462,7 @@ function PlasmicPatientForm__RenderFunc(props: {
                                     })()}
                                   </React.Fragment>
                                 }
-                                name={`Q${currentItem.id}`}
+                                name={`${currentItem.id}.${currentItem.question_text}`}
                               >
                                 {(() => {
                                   const child$Props = {
@@ -2592,7 +2592,7 @@ function PlasmicPatientForm__RenderFunc(props: {
                                     })()}
                                   </React.Fragment>
                                 }
-                                name={`Q${currentItem.id}`}
+                                name={`${currentItem.id}.${currentItem.question_text}`}
                               >
                                 {(() => {
                                   const child$Props = {
@@ -2888,7 +2888,7 @@ function PlasmicPatientForm__RenderFunc(props: {
                                     })()}
                                   </React.Fragment>
                                 }
-                                name={`Q${currentItem.id}`}
+                                name={`${currentItem.id}.${currentItem.question_text}`}
                               >
                                 {(() => {
                                   const child$Props = {
@@ -3018,7 +3018,7 @@ function PlasmicPatientForm__RenderFunc(props: {
                                     })()}
                                   </React.Fragment>
                                 }
-                                name={`Q${currentItem.id}`}
+                                name={`${currentItem.id}.${currentItem.question_text}`}
                               >
                                 {(() => {
                                   const child$Props = {
